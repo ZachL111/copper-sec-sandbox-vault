@@ -1,0 +1,17 @@
+{
+  "repo": "copper-sec-sandbox-vault",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 5,
+    "ship": 150,
+    "watch": 120
+  },
+  "terms": [
+    "trust boundary",
+    "claim drift",
+    "replay exposure",
+    "policy width"
+  ]
+}
